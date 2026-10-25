@@ -1,0 +1,15 @@
+# ==============================================================================
+# Applied Data Science — NLP End-of-Module Project Dependencies
+# ==============================================================================
+transformers
+torch
+fastapi
+uvicorn
+gradio
+pypdf
+sentence-transformers
+huggingface_hub
+numpy
+requests
+pydantic
+scikit-learn
