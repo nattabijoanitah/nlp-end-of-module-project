@@ -3,6 +3,9 @@
 **Deadline:** 7th November 2026, 23:59  
 **Members:** Joanitah Nattabi (`nattabijoanitah`) and Rahmah Namugwanya
 
+[![Open Notebook 1 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nattabijoanitah/nlp-end-of-module-project/blob/main/notebooks/NLP_Sentiment_Analysis_IMDb.ipynb) **Part 1: Sentiment Model Training**  
+[![Open Notebook 2 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nattabijoanitah/nlp-end-of-module-project/blob/main/notebooks/NLP_End_of_Module_Project.ipynb) **Parts 2 & 3: Model Serving & RAG Chatbot**
+
 ---
 
 ## App 1: Sentiment Analyser
